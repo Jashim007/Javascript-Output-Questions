@@ -1,6 +1,8 @@
 # Javascript-Output-Questions
 
-#Implementation of counter using closures
+## Implementation of counter using closures
+
+```javascript
 function counter()
 
 {
@@ -22,3 +24,4 @@ function counter()
 let count=counter();
 
 count();
+```
